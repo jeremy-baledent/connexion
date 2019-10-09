@@ -1,0 +1,67 @@
+body
+{
+display:flex;
+flex-direction:column;
+align-items:center;	
+}
+form
+{
+color:white	
+}
+img{
+	width:350px;
+	margin-top:5%;
+}
+
+textarea{
+height:200px;	
+	
+}
+.gif2{
+	width:300px;
+	margin-top:20%;
+	border-radius:20px;
+	
+}
+
+.form3{
+text-align:center;
+color:white;
+border: 2px solid white;
+border-radius:20px;
+background-color:#21618C  ;	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+body{
+	
+background-image:url(fondecran.jpg);
+}
